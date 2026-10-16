@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "adminPanelTitle": "ADMIN PANEL ABSENSI SISWA",
+    "schoolName": "SD NEGERI HARAPAN BANGSA",
+    "schoolAddress": "Jl. Pendidikan Mandiri No. 12, Kota Cerdas",
+    "npsn": "20234567",
+    "headmaster": "H. Suherman, S.Pd., M.M.",
+    "academicYear": "2024/2025",
+    "lateTimeThreshold": "07:15",
+    "logoUrl": null,
+    "legalCopyright": "by Kunti Kunanti, M.Pd."
+  },
+  "adminCredentials": {
+    "username": "admin",
+    "passwordHash": "admin123"
+  },
+  "students": [
+    {
+      "id": "std_001",
+      "nis": "240101",
+      "nisn": "0081293841",
+      "nama": "Aditya Pratama",
+      "kelas": "Kelas 4A",
+      "jenisKelamin": "L",
+      "noHpOrangTua": "081234567801",
+      "qrCodeData": "SISWA:240101",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_002",
+      "nis": "240102",
+      "nisn": "0081293842",
+      "nama": "Aisyah Putri Azzahra",
+      "kelas": "Kelas 4A",
+      "jenisKelamin": "P",
+      "noHpOrangTua": "081234567802",
+      "qrCodeData": "SISWA:240102",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_003",
+      "nis": "240103",
+      "nisn": "0081293843",
+      "nama": "Bagas Firmansyah",
+      "kelas": "Kelas 4A",
+      "jenisKelamin": "L",
+      "noHpOrangTua": "081234567803",
+      "qrCodeData": "SISWA:240103",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_004",
+      "nis": "240104",
+      "nisn": "0081293844",
+      "nama": "Cantika Dewi Lestari",
+      "kelas": "Kelas 4A",
+      "jenisKelamin": "P",
+      "noHpOrangTua": "081234567804",
+      "qrCodeData": "SISWA:240104",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_005",
+      "nis": "240105",
+      "nisn": "0081293845",
+      "nama": "Dafi Rizki Nugraha",
+      "kelas": "Kelas 4B",
+      "jenisKelamin": "L",
+      "noHpOrangTua": "081234567805",
+      "qrCodeData": "SISWA:240105",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_006",
+      "nis": "240106",
+      "nisn": "0081293846",
+      "nama": "Eka Nurul Fadilah",
+      "kelas": "Kelas 4B",
+      "jenisKelamin": "P",
+      "noHpOrangTua": "081234567806",
+      "qrCodeData": "SISWA:240106",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_007",
+      "nis": "240107",
+      "nisn": "0081293847",
+      "nama": "Fahri Ramadhan",
+      "kelas": "Kelas 5A",
+      "jenisKelamin": "L",
+      "noHpOrangTua": "081234567807",
+      "qrCodeData": "SISWA:240107",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    },
+    {
+      "id": "std_008",
+      "nis": "240108",
+      "nisn": "0081293848",
+      "nama": "Gita Maharani",
+      "kelas": "Kelas 5A",
+      "jenisKelamin": "P",
+      "noHpOrangTua": "081234567808",
+      "qrCodeData": "SISWA:240108",
+      "createdAt": "2026-10-16T02:10:14.974Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att_mvabyuugr4a",
+      "studentId": "std_001",
+      "nis": "240101",
+      "nama": "Aditya Pratama",
+      "kelas": "Kelas 4A",
+      "date": "2026-10-16",
+      "time": "02:10:26",
+      "status": "Hadir",
+      "method": "QR_SCAN",
+      "notes": "",
+      "recordedAt": "2026-10-16T02:10:26.344Z"
+    }
+  ],
+  "activeTokens": [
+    "tok_bn0php677fwmvabyq3c"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sistem Absensi Siswa QR Code",
+  "description": "Aplikasi Absensi QR Code Siswa berbasis online dengan database terpusat, scan kamera langsung, manajemen data siswa, dan rekapitulasi kehadiran.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
